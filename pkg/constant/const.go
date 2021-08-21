@@ -5,7 +5,6 @@ import "next-terminal/pkg/guacd"
 const (
 	AccessRuleAllow  = "allow"  // 允许访问
 	AccessRuleReject = "reject" // 拒绝访问
-
 	Custom     = "custom"      // 密码
 	PrivateKey = "private-key" // 密钥
 
